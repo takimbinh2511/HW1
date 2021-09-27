@@ -23,16 +23,16 @@ h1{
 .input-box{
     margin: 31px auto;
     width: 80%;
-    border-bottom: 1px solid white;
+    height: 90%;
     padding-bottom: 5px;
     padding-top: 5px;
 }
 .input-box input {
     width : 90%;
-    height: 80%;
+    height: 100%;
     border: none;
     /* outline: transparent; */
-    color: white;
+    color:black;
     list-style: none;
 }
 ::placeholder{
@@ -60,4 +60,3 @@ h1{
     color: white;
     font-size: 16px;
 }
-////////
